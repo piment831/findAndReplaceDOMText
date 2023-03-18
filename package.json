@@ -1,0 +1,14 @@
+{
+  "name": "findandreplacedomtext",
+  "version": "0.4.6",
+  "main": "lib/findAndReplaceDOMText.js",
+  "repository": "https://github.com/piment831/findAndReplaceDOMText",
+  "license": "unlicense",
+  "devDependencies": {
+    "@types/node": "^18.15.3",
+    "typescript": "^5.0.2"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
