@@ -92,7 +92,7 @@ findAndReplaceDOMText(
 `findAndReplaceDOMText`の一般的な使い方は、すべてのDOMノードではなく、通常のテキストを含むノード内のテキストを置き換えることです。これを簡単にするために、プリセットがあり、それを使って指定できます。
 
  * 非テキスト要素を無視する (E.g. `<script>`, `<svg>`, `<optgroup>`, `<textarea>`, etc.)
- * <p>`や`<div>`などのブロック要素に[bordered contexts](#contexts)を適用し、複数の要素にまたがらないようにする
+ * `<p>`や`<div>`などのブロック要素に[bordered contexts](#contexts)を適用し、複数の要素にまたがらないようにする
  * 注意：テキストインライン要素（`<em>`、`<span>`など）はまたがります。
  
 このプリセットを有効にする
